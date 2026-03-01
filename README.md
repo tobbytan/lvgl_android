@@ -9,6 +9,10 @@ A lightweight UI framework for Android using LVGL and OpenGL ES.
 - **EGL** - Native graphics context management
 - **Custom Android Surface** - Direct surface rendering support
 
+## Screenshot
+
+![Screenshot](readme_asset/screenshot.png)
+
 ## Project Structure
 
 ```

@@ -301,7 +301,7 @@ static void btn_event_cb(lv_event_t *e)
 int init_my_ui()
 {
     lv_obj_t *label = lv_label_create(lv_screen_active());
-    lv_label_set_text(label, "Hello world~~~2~~~~~~~~");
+    lv_label_set_text(label, "Hello world");
     lv_obj_center(label);
 
     test_btn = lv_button_create(lv_screen_active());
